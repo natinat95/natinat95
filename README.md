@@ -1,6 +1,6 @@
 ## Hi, I´m Natalia 👋
 
-Here are some ideas to get you started:
+
 ### 🎓 I'm currently studying at UCAM
 
 I'm a student of the Degree in Web Development (DAW) at the UCAM. I'm passionate about technology and programming, and I'm always looking for new challenges to improve my skills.
