@@ -1,12 +1,14 @@
 ## Hi, I´m Natalia 👋
 
+`Murcia`
 
 ### 🎓 I'm currently studying at UCAM
 
 I'm a student of the Degree in Web Development (DAW) at the UCAM. I'm passionate about technology and programming, and I'm always looking for new challenges to improve my skills.
+
 ### 🛠️ Skills
 
-Programming languages: Java
+Programming languages: Java 
 
 ### 📫 Contact me
 
